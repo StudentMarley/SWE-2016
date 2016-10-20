@@ -1,5 +1,5 @@
-Imię i nazwisko
-Temat projektu [link do repozytorium github]
+Cezary Wawrzyniak 
+Temat projektu [https://github.com/StudentMarley/SWE2016.git]
 Krótki opis projektu
 
 
